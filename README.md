@@ -2,8 +2,7 @@
 
 ## Bootstrap extended tab wizard
 
-tab wizard options:
-
+**tab wizard options:**
 1. tabs
   * Array of tab element's id string
 2. progressBar
@@ -13,7 +12,7 @@ tab wizard options:
 4. nextButton
   * Next button's id string
 
-examples:
+**examples:**
 ```javascript
 tabWizard = $("#new-form").TabWizard({
   tabs: ['experiment-panel-tab', 'option-panel-tab', 'input-panel-tab', 'launch-panel-tab'],
