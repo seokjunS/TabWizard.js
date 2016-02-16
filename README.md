@@ -13,7 +13,7 @@
   * Next button's id string
 
 #### Restriction:
-Corresponding tab panel's id should be same as tab's id without "-tab"
+Corresponding tab panel's id should be same as tab's id without "-tab".<br>
 For example, if tab's id is "hello-tab", corresponding tab panel's id should be "haha"
 
 #### Examples:
